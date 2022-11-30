@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 # Dockerfile
 FROM python:3.10.7-slim-buster
